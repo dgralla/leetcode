@@ -1,5 +1,10 @@
 class Solution {
     fun isPalindrome(x: Int): Boolean {
+        /*
+         * val copy = x.toString()
+         * val reversed = copy.reversed()
+         * return copy == reversed
+         */
         if (x < 0) return false
         var reverse = 0
         var copy = x
