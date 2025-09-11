@@ -1,2 +1,5 @@
-# leetcode
-Repository containing leetcode problem solutions
+# LeetCode
+### A repository containing my LeetCode problem solutions
+
+Languages Used: 
+* Kotlin
